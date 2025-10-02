@@ -2,14 +2,8 @@ I'm baby keytar raclette forage gentrify, green juice cold-pressed four dollar t
 
 Cray pop-up irony aesthetic bicycle rights. Typewriter blog humblebrag jean shorts. Cold-pressed tofu iPhone, migas ascot photo booth live-edge cardigan quinoa. Banjo asymmetrical pork belly palo santo vibecession ramps meditation, scenester food truck waistcoat unicorn.
 
-<<<<<<< HEAD
+
 Aesthetic palo santo drinking vinegar, selfies cardigan tacos venmo banjo shabby chic kitsch. Selfies four dollar toast ramps, kickstarter lo-fi bespoke photo booth kale chips you probably haven't heard of them umami DIY fanny pack tilde farm-to-table. Tacos heirloom plaid kitsch, messenger bag yuccie truffaut twee bespoke knausgaard deep v gastropub. Listicle pork belly blog chia locavore. Glossier iceland marxism, farm-to-table keytar hashtag single-origin coffee messenger bag skateboard hexagon sriracha migas. Bitters YOLO jawn selvage williamsburg palo santo normcore master cleanse hammock marfa microdosing sus kickstarter everyday carry pickled. Yuccie crucifix locavore subway tile, normcore twee enamel pin lo-fi vibecession keytar ethical vexillologist tumeric blackbird spyplane.
-
-Tumblr pinterest godard banjo gatekeep selvage. Skateboard single-origin coffee hoodie freegan photo booth ethical craft beer kinfolk four loko disrupt fingerstache twee neutra. Lomo iceland tacos paleo neutral  hotel meggings unicorn tilde. Blog bodega boys kinfolk scenester cloud bread tacos. Four dollar toast chicharrones tonx VHS big mood, asymmetrical retro Brooklyn small batch poke.
-Air plant chia vape marxism celiac. Etsy trust fund mustache, polaroid aesthetic tacos small batch blackbird spyplane asymmetrical chambray marfa cold-pressed yuccie occupy. Master cleanse austin asymmetrical etsy synth letterpress bushwick affogato twee bodega boys. Messenger bag unicorn DIY +1 cronut 90's chartreuse direct trade bushwick ramps woke keffiyeh XOXO roof party. Heirloom meh vice mumblecore migas viral everyday carry cliche. Chia hoodie knausgaard flannel sustainable tilde pabst.
-
-
-
 new test for this branc
 
 new
@@ -23,4 +17,14 @@ new text
 
 
 will try to rebase
+
+
+Aesthetic palo santo drinking vinegar, selfies cardigan tacos venmo banjo shabby chic kitsch. Selfies four dollar toast ramps, kickstarter lo-fi bespoke photo booth kale chips you probably haven't heard of them umami mukbang DIY fanny pack tilde farm-to-table. Tacos heirloom plaid kitsch, messenger bag yuccie truffaut twee bespoke knausgaard deep v gastropub. Listicle pork belly blog chia locavore. Glossier iceland marxism, farm-to-table keytar hashtag single-origin coffee messenger bag skateboard hexagon sriracha migas. Bitters YOLO jawn selvage williamsburg palo santo normcore master cleanse hammock marfa microdosing sus kickstarter everyday carry pickled. Yuccie crucifix locavore subway tile, normcore twee enamel pin lo-fi vibecession keytar ethical vexillologist tumeric blackbird spyplane.
+
+new
+
+Tumblr pinterest godard banjo gatekeep selvage. Skateboard single-origin coffee hoodie freegan photo booth ethical craft beer kinfolk four loko disrupt fingerstache twee neutra. Lomo iceland tacos paleo neutral milk hotel meggings unicorn tilde. Blog bodega boys kinfolk scenester cloud bread tacos. Four dollar toast chicharrones tonx VHS big mood, asymmetrical retro Brooklyn small batch poke.
+modified command chia vape marxism celiac. Etsy trust fund mustache, polaroid aesthetic tacos small batch blackbird spyplane asymmetrical chambray marfa cold-pressed yuccie occupy. Master cleanse austin asymmetrical etsy synth letterpress bushwick affogato twee bodega boys. Messenger bag unicorn DIY +1 cronut 90's chartreuse direct trade bushwick ramps woke keffiyeh XOXO roof party. Heirloom meh vice mumblecore migas viral everyday carry cliche. Chia hoodie knausgaard flannel sustainable tilde pabst.
+
+new text
 
